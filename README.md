@@ -1,4 +1,4 @@
-# SharkTank Power-BI
+# Shark Tank Power-BI
 
 ![image](https://github.com/Devikalahari03/Shark-Tank-Power-BI/assets/157952673/c2e781ef-64c3-4121-a461-97871d70af88)
 
