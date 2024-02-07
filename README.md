@@ -1,6 +1,6 @@
 # SharkTank Power-BI
 
-![image](https://github.com/Devikalahari03/Power-Bi-/assets/157952673/cda4407c-867d-4a2a-87ec-ff786048325d)
+![image](https://github.com/Devikalahari03/Shark-Tank-Power-BI/assets/157952673/c2e781ef-64c3-4121-a461-97871d70af88)
 
 Title: Shark Tank Projects - GitHub Power BI
 
